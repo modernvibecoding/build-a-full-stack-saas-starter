@@ -1,0 +1,1 @@
+-- Add starter schema for the GUIDE project here.
