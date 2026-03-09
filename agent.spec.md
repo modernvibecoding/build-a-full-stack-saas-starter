@@ -11,7 +11,7 @@ Next.js 15 (App Router) · TypeScript · Tailwind CSS v4 · Supabase · Drizzle 
 
 ## Student Prompt
 
-Copy and paste this into Claude Code (or your AI tool of choice):
+Copy and paste this into your AI coding tool:
 
 ---
 
